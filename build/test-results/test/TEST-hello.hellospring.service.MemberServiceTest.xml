@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hello.hellospring.service.MemberServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-08-18T05:52:08" hostname="myspace" time="0.04">
+<testsuite name="hello.hellospring.service.MemberServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-08-25T01:20:59" hostname="myspace" time="0.043">
   <properties/>
-  <testcase name="findOne()" classname="hello.hellospring.service.MemberServiceTest" time="0.01"/>
+  <testcase name="findOne()" classname="hello.hellospring.service.MemberServiceTest" time="0.011"/>
   <testcase name="join()" classname="hello.hellospring.service.MemberServiceTest" time="0.025"/>
   <testcase name="중복_회원_예외()" classname="hello.hellospring.service.MemberServiceTest" time="0.003"/>
   <testcase name="findMembers()" classname="hello.hellospring.service.MemberServiceTest" time="0.001"/>
